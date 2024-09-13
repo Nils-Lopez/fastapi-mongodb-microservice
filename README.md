@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-mongodb-microservice-template.git
-cd fastapi-mongodb-microservice-template
+git clone https://github.com/Nils-Lopez/fastapi-mongodb-microservice.git
+cd fastapi-mongodb-microservice
 ```
 
 ### Step 2: Create a Virtual Environment
