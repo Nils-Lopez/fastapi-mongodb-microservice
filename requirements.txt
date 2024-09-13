@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+pydantic
+python-dotenv 
+httpx 
+pydantic-settings
+pydantic[email]
+python-multipart
